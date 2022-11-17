@@ -1,0 +1,37 @@
+{
+    "experience": [
+        {
+            "title": "Full Stack Engineer",
+            "company": "Facebook",
+            "responsibilities": [
+                "Created Full Stack Stuff for Facebook", 
+                "Worked on Full Stack Stuff for Facebook", 
+                "Edited Full Stack Stuff for Facebook",
+                "Updated Full Stack Stuff for Facebook",
+                "Deleted Full Stack Stuff for Facebook"
+            ]
+        },
+        {
+            "title": "Full Stack Engineer",
+            "company": "LinkedIn",
+            "responsibilities": [
+                "Created Full Stack Stuff for LinkedIn", 
+                "Worked on Full Stack Stuff for LinkedIn", 
+                "Edited Full Stack Stuff for LinkedIn",
+                "Updated Full Stack Stuff for LinkedIn",
+                "Deleted Full Stack Stuff for LinkedIn"
+            ]
+        },
+        {
+            "title": "Full Stack Engineer",
+            "company": "AWS",
+            "responsibilities": [
+                "Created Full Stack Stuff for AWS", 
+                "Worked on Full Stack Stuff for AWS", 
+                "Edited Full Stack Stuff for AWS",
+                "Updated Full Stack Stuff for AWS",
+                "Deleted Full Stack Stuff for AWS"
+            ]
+        }
+    ]
+}
